@@ -1,0 +1,23 @@
+[
+  {
+    "code": "INDIVIDUAL",
+    "name": "Natural Person / Individual",
+    "description": "Standard retail individual account holder subject to CDD requirements",
+    "requires_ubo": false,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "code": "BUSINESS_SME",
+    "name": "Small & Medium Enterprise",
+    "description": "Commercial business entity requiring corporate registry and UBO identification",
+    "requires_ubo": true,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "code": "BUSINESS_CORPORATE",
+    "name": "Large Corporate Entity",
+    "description": "Multinational or high-tier corporate customer requiring enhanced UBO and source of funds",
+    "requires_ubo": true,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  }
+]

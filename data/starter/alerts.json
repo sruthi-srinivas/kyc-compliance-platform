@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ALT-2026-000001",
+    "customer_id": "CUS-000101",
+    "alert_type": "DOCUMENT_EXPIRED",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "description": "Document DOC-CUS-000101-001 expired on 2026-07-20. Immediate refresh required.",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000101-001",
+    "created_at": "2026-10-22T10:00:00+00:00"
+  },
+  {
+    "id": "ALT-2026-000002",
+    "customer_id": "CUS-000101",
+    "alert_type": "DOCUMENT_EXPIRED",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "description": "Document DOC-CUS-000101-002 expired on 2026-09-08. Immediate refresh required.",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000101-002",
+    "created_at": "2026-10-22T10:00:00+00:00"
+  },
+  {
+    "id": "ALT-2026-000003",
+    "customer_id": "CUS-000102",
+    "alert_type": "DOCUMENT_EXPIRED",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "description": "Document DOC-CUS-000102-001 expired on 2026-07-16. Immediate refresh required.",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000102-001",
+    "created_at": "2026-10-22T10:00:00+00:00"
+  },
+  {
+    "id": "ALT-2026-000004",
+    "customer_id": "CUS-000102",
+    "alert_type": "DOCUMENT_EXPIRED",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "description": "Document DOC-CUS-000102-002 expired on 2026-07-08. Immediate refresh required.",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000102-002",
+    "created_at": "2026-10-22T10:00:00+00:00"
+  },
+  {
+    "id": "ALT-2026-000005",
+    "customer_id": "CUS-000103",
+    "alert_type": "DOCUMENT_EXPIRED",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "description": "Document DOC-CUS-000103-001 expired on 2026-07-13. Immediate refresh required.",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000103-001",
+    "created_at": "2026-10-22T10:00:00+00:00"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "id": "OWN-CUS-000176-001",
+    "business_customer_id": "CUS-000176",
+    "owner_name": "Amy Matthews",
+    "nationality": "VG",
+    "ownership_percentage": 75.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-943093",
+    "created_at": "2026-01-02T06:32:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000177-001",
+    "business_customer_id": "CUS-000177",
+    "owner_name": "Kristine Aguirre",
+    "nationality": "IN",
+    "ownership_percentage": 75.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-630802",
+    "created_at": "2026-01-02T06:39:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000178-001",
+    "business_customer_id": "CUS-000178",
+    "owner_name": "Madeline Peterson MD",
+    "nationality": "AE",
+    "ownership_percentage": 75.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-601108",
+    "created_at": "2026-01-02T06:46:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000178-002",
+    "business_customer_id": "CUS-000178",
+    "owner_name": "Robert Wilcox",
+    "nationality": "BR",
+    "ownership_percentage": 65.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-613717",
+    "created_at": "2026-01-02T06:46:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000178-003",
+    "business_customer_id": "CUS-000178",
+    "owner_name": "Christopher Nelson",
+    "nationality": "SG",
+    "ownership_percentage": 25.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-951756",
+    "created_at": "2026-01-02T06:46:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000179-001",
+    "business_customer_id": "CUS-000179",
+    "owner_name": "Christopher Carpenter",
+    "nationality": "KY",
+    "ownership_percentage": 75.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-289436",
+    "created_at": "2026-01-02T06:53:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000179-002",
+    "business_customer_id": "CUS-000179",
+    "owner_name": "David Ramirez",
+    "nationality": "IN",
+    "ownership_percentage": 65.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-564410",
+    "created_at": "2026-01-02T06:53:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000180-001",
+    "business_customer_id": "CUS-000180",
+    "owner_name": "John George",
+    "nationality": "KY",
+    "ownership_percentage": 75.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-870967",
+    "created_at": "2026-01-02T07:00:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000180-002",
+    "business_customer_id": "CUS-000180",
+    "owner_name": "Ivan Smith",
+    "nationality": "CY",
+    "ownership_percentage": 65.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-601194",
+    "created_at": "2026-01-02T07:00:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000180-003",
+    "business_customer_id": "CUS-000180",
+    "owner_name": "Mindy Thompson",
+    "nationality": "DE",
+    "ownership_percentage": 25.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-528686",
+    "created_at": "2026-01-02T07:00:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000181-001",
+    "business_customer_id": "CUS-000181",
+    "owner_name": "Amanda Keith",
+    "nationality": "ZA",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-908045",
+    "created_at": "2026-01-02T07:07:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000181-002",
+    "business_customer_id": "CUS-000181",
+    "owner_name": "Jaime Burgess",
+    "nationality": "GB",
+    "ownership_percentage": 35.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-458548",
+    "created_at": "2026-01-02T07:07:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000181-003",
+    "business_customer_id": "CUS-000181",
+    "owner_name": "Jeremy Williams",
+    "nationality": "GB",
+    "ownership_percentage": 25.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-908477",
+    "created_at": "2026-01-02T07:07:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000182-001",
+    "business_customer_id": "CUS-000182",
+    "owner_name": "Lisa Gomez",
+    "nationality": "US",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-125126",
+    "created_at": "2026-01-02T07:14:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000182-002",
+    "business_customer_id": "CUS-000182",
+    "owner_name": "Jordan Flores Jr.",
+    "nationality": "US",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-246944",
+    "created_at": "2026-01-02T07:14:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000183-001",
+    "business_customer_id": "CUS-000183",
+    "owner_name": "Chelsea Armstrong",
+    "nationality": "IN",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-840318",
+    "created_at": "2026-01-02T07:21:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000183-002",
+    "business_customer_id": "CUS-000183",
+    "owner_name": "Scott Roberts",
+    "nationality": "SG",
+    "ownership_percentage": 35.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-901067",
+    "created_at": "2026-01-02T07:21:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000183-003",
+    "business_customer_id": "CUS-000183",
+    "owner_name": "William Kidd",
+    "nationality": "AE",
+    "ownership_percentage": 25.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-634328",
+    "created_at": "2026-01-02T07:21:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000184-001",
+    "business_customer_id": "CUS-000184",
+    "owner_name": "Shelia Green",
+    "nationality": "SG",
+    "ownership_percentage": 100.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-513763",
+    "created_at": "2026-01-02T07:28:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000185-001",
+    "business_customer_id": "CUS-000185",
+    "owner_name": "Mark Moore",
+    "nationality": "BR",
+    "ownership_percentage": 100.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-983732",
+    "created_at": "2026-01-02T07:35:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000186-001",
+    "business_customer_id": "CUS-000186",
+    "owner_name": "Angela Dominguez",
+    "nationality": "KY",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-177345",
+    "created_at": "2026-01-02T07:42:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000186-002",
+    "business_customer_id": "CUS-000186",
+    "owner_name": "Karla Jordan",
+    "nationality": "BR",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-867202",
+    "created_at": "2026-01-02T07:42:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000187-001",
+    "business_customer_id": "CUS-000187",
+    "owner_name": "Willie Bradley",
+    "nationality": "VG",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-208157",
+    "created_at": "2026-01-02T07:49:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000187-002",
+    "business_customer_id": "CUS-000187",
+    "owner_name": "Jennifer Barrett",
+    "nationality": "CH",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-400432",
+    "created_at": "2026-01-02T07:49:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000188-001",
+    "business_customer_id": "CUS-000188",
+    "owner_name": "Melissa Byrd",
+    "nationality": "ZA",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-330172",
+    "created_at": "2026-01-02T07:56:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000188-002",
+    "business_customer_id": "CUS-000188",
+    "owner_name": "Karen Foster",
+    "nationality": "AE",
+    "ownership_percentage": 35.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-401145",
+    "created_at": "2026-01-02T07:56:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000188-003",
+    "business_customer_id": "CUS-000188",
+    "owner_name": "Christopher Conway",
+    "nationality": "GB",
+    "ownership_percentage": 25.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-860586",
+    "created_at": "2026-01-02T07:56:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000189-001",
+    "business_customer_id": "CUS-000189",
+    "owner_name": "Alexander Benitez",
+    "nationality": "US",
+    "ownership_percentage": 100.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-755315",
+    "created_at": "2026-01-02T08:03:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000190-001",
+    "business_customer_id": "CUS-000190",
+    "owner_name": "Alisha Graves",
+    "nationality": "ZA",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-948244",
+    "created_at": "2026-01-02T08:10:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000190-002",
+    "business_customer_id": "CUS-000190",
+    "owner_name": "Jeremy Mays",
+    "nationality": "BR",
+    "ownership_percentage": 35.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-454942",
+    "created_at": "2026-01-02T08:10:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000190-003",
+    "business_customer_id": "CUS-000190",
+    "owner_name": "Christopher Garcia",
+    "nationality": "GB",
+    "ownership_percentage": 25.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-103845",
+    "created_at": "2026-01-02T08:10:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000191-001",
+    "business_customer_id": "CUS-000191",
+    "owner_name": "Richard Calhoun",
+    "nationality": "SG",
+    "ownership_percentage": 100.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-743950",
+    "created_at": "2026-01-02T08:17:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000192-001",
+    "business_customer_id": "CUS-000192",
+    "owner_name": "Kelly Frazier",
+    "nationality": "KY",
+    "ownership_percentage": 100.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-602649",
+    "created_at": "2026-01-02T08:24:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000193-001",
+    "business_customer_id": "CUS-000193",
+    "owner_name": "Tamara Valencia",
+    "nationality": "IN",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-997955",
+    "created_at": "2026-01-02T08:31:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000193-002",
+    "business_customer_id": "CUS-000193",
+    "owner_name": "Stacy Trujillo",
+    "nationality": "AE",
+    "ownership_percentage": 35.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-465137",
+    "created_at": "2026-01-02T08:31:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000193-003",
+    "business_customer_id": "CUS-000193",
+    "owner_name": "Gina Cruz",
+    "nationality": "ZA",
+    "ownership_percentage": 25.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-306031",
+    "created_at": "2026-01-02T08:31:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000194-001",
+    "business_customer_id": "CUS-000194",
+    "owner_name": "Joshua Hernandez",
+    "nationality": "PA",
+    "ownership_percentage": 100.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-232358",
+    "created_at": "2026-01-02T08:38:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000195-001",
+    "business_customer_id": "CUS-000195",
+    "owner_name": "Lisa Johnson",
+    "nationality": "ZA",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-350510",
+    "created_at": "2026-01-02T08:45:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000195-002",
+    "business_customer_id": "CUS-000195",
+    "owner_name": "Maria Lee",
+    "nationality": "BR",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-242489",
+    "created_at": "2026-01-02T08:45:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000196-001",
+    "business_customer_id": "CUS-000196",
+    "owner_name": "Amy Horton",
+    "nationality": "BR",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-491903",
+    "created_at": "2026-01-02T08:52:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000196-002",
+    "business_customer_id": "CUS-000196",
+    "owner_name": "Kevin Graham",
+    "nationality": "CH",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-535776",
+    "created_at": "2026-01-02T08:52:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000197-001",
+    "business_customer_id": "CUS-000197",
+    "owner_name": "John Ortiz",
+    "nationality": "VG",
+    "ownership_percentage": 100.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-876761",
+    "created_at": "2026-01-02T08:59:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000198-001",
+    "business_customer_id": "CUS-000198",
+    "owner_name": "Brent Thomas",
+    "nationality": "IN",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-143638",
+    "created_at": "2026-01-02T09:06:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000198-002",
+    "business_customer_id": "CUS-000198",
+    "owner_name": "Theresa Perkins",
+    "nationality": "VG",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-231532",
+    "created_at": "2026-01-02T09:06:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000199-001",
+    "business_customer_id": "CUS-000199",
+    "owner_name": "Amy Bennett",
+    "nationality": "IN",
+    "ownership_percentage": 100.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-449105",
+    "created_at": "2026-01-02T09:13:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000200-001",
+    "business_customer_id": "CUS-000200",
+    "owner_name": "Mrs. Molly Young DDS",
+    "nationality": "GB",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-PASS-585757",
+    "created_at": "2026-01-02T09:20:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000200-002",
+    "business_customer_id": "CUS-000200",
+    "owner_name": "Ashley Zavala",
+    "nationality": "DE",
+    "ownership_percentage": 40.0,
+    "is_controlling_person": false,
+    "id_document_number": "UBO-PASS-758905",
+    "created_at": "2026-01-02T09:20:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000176-999",
+    "business_customer_id": "CUS-000176",
+    "owner_name": "Vincent Chavez (Injected Over-allocation)",
+    "nationality": "US",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-ANO-OVER",
+    "created_at": "2026-01-15T00:00:00+00:00"
+  },
+  {
+    "id": "OWN-CUS-000177-999",
+    "business_customer_id": "CUS-000177",
+    "owner_name": "Dawn Williams (Injected Over-allocation)",
+    "nationality": "US",
+    "ownership_percentage": 60.0,
+    "is_controlling_person": true,
+    "id_document_number": "UBO-ANO-OVER",
+    "created_at": "2026-01-15T00:00:00+00:00"
+  }
+]

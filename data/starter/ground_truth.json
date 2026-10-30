@@ -1,0 +1,227 @@
+[
+  {
+    "anomaly_id": "ANO-2026-00001",
+    "issue_type": "EXPIRED_DOCUMENT_MARKED_VALID",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_EXPIRATION_EXCEPTION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000101-001",
+    "details": "Document DOC-CUS-000101-001 has expiry date 2026-07-20 (< 2026-10-22) but lifecycle_state is VALID."
+  },
+  {
+    "anomaly_id": "ANO-2026-00002",
+    "issue_type": "EXPIRED_DOCUMENT_MARKED_VALID",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_EXPIRATION_EXCEPTION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000101-002",
+    "details": "Document DOC-CUS-000101-002 has expiry date 2026-09-08 (< 2026-10-22) but lifecycle_state is VALID."
+  },
+  {
+    "anomaly_id": "ANO-2026-00003",
+    "issue_type": "EXPIRED_DOCUMENT_MARKED_VALID",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_EXPIRATION_EXCEPTION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000102-001",
+    "details": "Document DOC-CUS-000102-001 has expiry date 2026-07-16 (< 2026-10-22) but lifecycle_state is VALID."
+  },
+  {
+    "anomaly_id": "ANO-2026-00004",
+    "issue_type": "EXPIRED_DOCUMENT_MARKED_VALID",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_EXPIRATION_EXCEPTION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000102-002",
+    "details": "Document DOC-CUS-000102-002 has expiry date 2026-07-08 (< 2026-10-22) but lifecycle_state is VALID."
+  },
+  {
+    "anomaly_id": "ANO-2026-00005",
+    "issue_type": "EXPIRED_DOCUMENT_MARKED_VALID",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_EXPIRATION_EXCEPTION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000103-001",
+    "details": "Document DOC-CUS-000103-001 has expiry date 2026-07-13 (< 2026-10-22) but lifecycle_state is VALID."
+  },
+  {
+    "anomaly_id": "ANO-2026-00006",
+    "issue_type": "APPROVED_WITHOUT_MANDATORY_KYC",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_UNAUTHORIZED_APPROVAL_EXCEPTION",
+    "related_entity_type": "Customer",
+    "related_entity_id": "CUS-000011",
+    "details": "Customer CUS-000011 is marked APPROVED while mandatory KYC evidence is missing."
+  },
+  {
+    "anomaly_id": "ANO-2026-00007",
+    "issue_type": "APPROVED_WITHOUT_MANDATORY_KYC",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_UNAUTHORIZED_APPROVAL_EXCEPTION",
+    "related_entity_type": "Customer",
+    "related_entity_id": "CUS-000012",
+    "details": "Customer CUS-000012 is marked APPROVED while mandatory KYC evidence is missing."
+  },
+  {
+    "anomaly_id": "ANO-2026-00008",
+    "issue_type": "APPROVED_WITHOUT_MANDATORY_KYC",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_UNAUTHORIZED_APPROVAL_EXCEPTION",
+    "related_entity_type": "Customer",
+    "related_entity_id": "CUS-000013",
+    "details": "Customer CUS-000013 is marked APPROVED while mandatory KYC evidence is missing."
+  },
+  {
+    "anomaly_id": "ANO-2026-00009",
+    "issue_type": "APPROVED_WITHOUT_MANDATORY_KYC",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_UNAUTHORIZED_APPROVAL_EXCEPTION",
+    "related_entity_type": "Customer",
+    "related_entity_id": "CUS-000014",
+    "details": "Customer CUS-000014 is marked APPROVED while mandatory KYC evidence is missing."
+  },
+  {
+    "anomaly_id": "ANO-2026-00010",
+    "issue_type": "APPROVED_WITHOUT_MANDATORY_KYC",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_UNAUTHORIZED_APPROVAL_EXCEPTION",
+    "related_entity_type": "Customer",
+    "related_entity_id": "CUS-000015",
+    "details": "Customer CUS-000015 is marked APPROVED while mandatory KYC evidence is missing."
+  },
+  {
+    "anomaly_id": "ANO-2026-00011",
+    "issue_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_OWNERSHIP_RECONCILIATION_FAILURE",
+    "related_entity_type": "BeneficialOwner",
+    "related_entity_id": "CUS-000176",
+    "details": "Business CUS-000176 beneficial ownership sum exceeds 100.0%."
+  },
+  {
+    "anomaly_id": "ANO-2026-00012",
+    "issue_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_OWNERSHIP_RECONCILIATION_FAILURE",
+    "related_entity_type": "BeneficialOwner",
+    "related_entity_id": "CUS-000177",
+    "details": "Business CUS-000177 beneficial ownership sum exceeds 100.0%."
+  },
+  {
+    "anomaly_id": "ANO-2026-00013",
+    "issue_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_OWNERSHIP_RECONCILIATION_FAILURE",
+    "related_entity_type": "BeneficialOwner",
+    "related_entity_id": "CUS-000178",
+    "details": "Business CUS-000178 beneficial ownership sum exceeds 100.0%."
+  },
+  {
+    "anomaly_id": "ANO-2026-00014",
+    "issue_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_OWNERSHIP_RECONCILIATION_FAILURE",
+    "related_entity_type": "BeneficialOwner",
+    "related_entity_id": "CUS-000179",
+    "details": "Business CUS-000179 beneficial ownership sum exceeds 100.0%."
+  },
+  {
+    "anomaly_id": "ANO-2026-00015",
+    "issue_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_OWNERSHIP_RECONCILIATION_FAILURE",
+    "related_entity_type": "BeneficialOwner",
+    "related_entity_id": "CUS-000180",
+    "details": "Business CUS-000180 beneficial ownership sum exceeds 100.0%."
+  },
+  {
+    "anomaly_id": "ANO-2026-00016",
+    "issue_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_INVALID_REVIEW_CLOSURE",
+    "related_entity_type": "ReviewCase",
+    "related_entity_id": "REV-CUS-000001-2026",
+    "details": "ReviewCase REV-CUS-000001-2026 has status CLOSED but resolution_decision is NULL."
+  },
+  {
+    "anomaly_id": "ANO-2026-00017",
+    "issue_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_INVALID_REVIEW_CLOSURE",
+    "related_entity_type": "ReviewCase",
+    "related_entity_id": "REV-CUS-000002-2026",
+    "details": "ReviewCase REV-CUS-000002-2026 has status CLOSED but resolution_decision is NULL."
+  },
+  {
+    "anomaly_id": "ANO-2026-00018",
+    "issue_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_INVALID_REVIEW_CLOSURE",
+    "related_entity_type": "ReviewCase",
+    "related_entity_id": "REV-CUS-000003-2026",
+    "details": "ReviewCase REV-CUS-000003-2026 has status CLOSED but resolution_decision is NULL."
+  },
+  {
+    "anomaly_id": "ANO-2026-00019",
+    "issue_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_INVALID_REVIEW_CLOSURE",
+    "related_entity_type": "ReviewCase",
+    "related_entity_id": "REV-CUS-000004-2026",
+    "details": "ReviewCase REV-CUS-000004-2026 has status CLOSED but resolution_decision is NULL."
+  },
+  {
+    "anomaly_id": "ANO-2026-00020",
+    "issue_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_INVALID_REVIEW_CLOSURE",
+    "related_entity_type": "ReviewCase",
+    "related_entity_id": "REV-CUS-000005-2026",
+    "details": "ReviewCase REV-CUS-000005-2026 has status CLOSED but resolution_decision is NULL."
+  },
+  {
+    "anomaly_id": "ANO-2026-00021",
+    "issue_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_DUPLICATION_SUSPICION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000052-777",
+    "details": "Document DOC-CUS-000052-777 on customer CUS-000052 shares duplicate number DOCNUM-24205594 with customer CUS-000051."
+  },
+  {
+    "anomaly_id": "ANO-2026-00022",
+    "issue_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_DUPLICATION_SUSPICION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000054-777",
+    "details": "Document DOC-CUS-000054-777 on customer CUS-000054 shares duplicate number DOCNUM-88152442 with customer CUS-000053."
+  },
+  {
+    "anomaly_id": "ANO-2026-00023",
+    "issue_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_DUPLICATION_SUSPICION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000056-777",
+    "details": "Document DOC-CUS-000056-777 on customer CUS-000056 shares duplicate number DOCNUM-43254076 with customer CUS-000055."
+  },
+  {
+    "anomaly_id": "ANO-2026-00024",
+    "issue_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_DUPLICATION_SUSPICION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000058-777",
+    "details": "Document DOC-CUS-000058-777 on customer CUS-000058 shares duplicate number DOCNUM-19685209 with customer CUS-000057."
+  },
+  {
+    "anomaly_id": "ANO-2026-00025",
+    "issue_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "expected_classification": "ANOMALY",
+    "expected_decision": "FLAG_DOCUMENT_DUPLICATION_SUSPICION",
+    "related_entity_type": "Document",
+    "related_entity_id": "DOC-CUS-000060-777",
+    "details": "Document DOC-CUS-000060-777 on customer CUS-000060 shares duplicate number DOCNUM-44330237 with customer CUS-000059."
+  }
+]

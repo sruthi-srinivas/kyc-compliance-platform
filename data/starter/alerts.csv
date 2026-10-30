@@ -1,0 +1,6 @@
+id,customer_id,alert_type,severity,status,description,related_entity_type,related_entity_id,created_at
+ALT-2026-000001,CUS-000101,DOCUMENT_EXPIRED,HIGH,OPEN,Document DOC-CUS-000101-001 expired on 2026-07-20. Immediate refresh required.,Document,DOC-CUS-000101-001,2026-10-22 10:00:00+00:00
+ALT-2026-000002,CUS-000101,DOCUMENT_EXPIRED,HIGH,OPEN,Document DOC-CUS-000101-002 expired on 2026-09-08. Immediate refresh required.,Document,DOC-CUS-000101-002,2026-10-22 10:00:00+00:00
+ALT-2026-000003,CUS-000102,DOCUMENT_EXPIRED,HIGH,OPEN,Document DOC-CUS-000102-001 expired on 2026-07-16. Immediate refresh required.,Document,DOC-CUS-000102-001,2026-10-22 10:00:00+00:00
+ALT-2026-000004,CUS-000102,DOCUMENT_EXPIRED,HIGH,OPEN,Document DOC-CUS-000102-002 expired on 2026-07-08. Immediate refresh required.,Document,DOC-CUS-000102-002,2026-10-22 10:00:00+00:00
+ALT-2026-000005,CUS-000103,DOCUMENT_EXPIRED,HIGH,OPEN,Document DOC-CUS-000103-001 expired on 2026-07-13. Immediate refresh required.,Document,DOC-CUS-000103-001,2026-10-22 10:00:00+00:00

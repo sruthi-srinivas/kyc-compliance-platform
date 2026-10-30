@@ -1,0 +1,137 @@
+[
+  {
+    "id": "KYC-2026-000001",
+    "customer_type_code": "INDIVIDUAL",
+    "risk_level": "ALL",
+    "document_type": "GOVERNMENT_ID",
+    "is_mandatory": true,
+    "validity_period_days": 1825,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000002",
+    "customer_type_code": "INDIVIDUAL",
+    "risk_level": "ALL",
+    "document_type": "PROOF_OF_ADDRESS",
+    "is_mandatory": true,
+    "validity_period_days": 365,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000003",
+    "customer_type_code": "INDIVIDUAL",
+    "risk_level": "HIGH",
+    "document_type": "PROOF_OF_WEALTH",
+    "is_mandatory": true,
+    "validity_period_days": 730,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000004",
+    "customer_type_code": "INDIVIDUAL",
+    "risk_level": "LOW",
+    "document_type": "TAX_DECLARATION",
+    "is_mandatory": false,
+    "validity_period_days": 365,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000005",
+    "customer_type_code": "BUSINESS_SME",
+    "risk_level": "ALL",
+    "document_type": "CERT_INCORPORATION",
+    "is_mandatory": true,
+    "validity_period_days": 3650,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000006",
+    "customer_type_code": "BUSINESS_SME",
+    "risk_level": "ALL",
+    "document_type": "ARTICLES_OF_ASSOC",
+    "is_mandatory": true,
+    "validity_period_days": 3650,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000007",
+    "customer_type_code": "BUSINESS_SME",
+    "risk_level": "ALL",
+    "document_type": "PROOF_OF_ADDRESS",
+    "is_mandatory": true,
+    "validity_period_days": 365,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000008",
+    "customer_type_code": "BUSINESS_SME",
+    "risk_level": "ALL",
+    "document_type": "UBO_DECLARATION",
+    "is_mandatory": true,
+    "validity_period_days": 730,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000009",
+    "customer_type_code": "BUSINESS_SME",
+    "risk_level": "HIGH",
+    "document_type": "AUDITED_FINANCIALS",
+    "is_mandatory": true,
+    "validity_period_days": 365,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000010",
+    "customer_type_code": "BUSINESS_CORPORATE",
+    "risk_level": "ALL",
+    "document_type": "CERT_INCORPORATION",
+    "is_mandatory": true,
+    "validity_period_days": 3650,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000011",
+    "customer_type_code": "BUSINESS_CORPORATE",
+    "risk_level": "ALL",
+    "document_type": "ARTICLES_OF_ASSOC",
+    "is_mandatory": true,
+    "validity_period_days": 3650,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000012",
+    "customer_type_code": "BUSINESS_CORPORATE",
+    "risk_level": "ALL",
+    "document_type": "PROOF_OF_ADDRESS",
+    "is_mandatory": true,
+    "validity_period_days": 365,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000013",
+    "customer_type_code": "BUSINESS_CORPORATE",
+    "risk_level": "ALL",
+    "document_type": "UBO_DECLARATION",
+    "is_mandatory": true,
+    "validity_period_days": 730,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000014",
+    "customer_type_code": "BUSINESS_CORPORATE",
+    "risk_level": "ALL",
+    "document_type": "DIRECTORS_REGISTER",
+    "is_mandatory": true,
+    "validity_period_days": 730,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "KYC-2026-000015",
+    "customer_type_code": "BUSINESS_CORPORATE",
+    "risk_level": "HIGH",
+    "document_type": "SOURCE_OF_FUNDS",
+    "is_mandatory": true,
+    "validity_period_days": 365,
+    "created_at": "2026-01-01T00:00:00+00:00"
+  }
+]

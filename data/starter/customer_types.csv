@@ -1,0 +1,4 @@
+code,name,description,requires_ubo,created_at
+INDIVIDUAL,Natural Person / Individual,Standard retail individual account holder subject to CDD requirements,False,2026-01-01 00:00:00+00:00
+BUSINESS_SME,Small & Medium Enterprise,Commercial business entity requiring corporate registry and UBO identification,True,2026-01-01 00:00:00+00:00
+BUSINESS_CORPORATE,Large Corporate Entity,Multinational or high-tier corporate customer requiring enhanced UBO and source of funds,True,2026-01-01 00:00:00+00:00
