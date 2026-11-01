@@ -1,8 +1,10 @@
 import os
 from pathlib import Path
-from pydantic_settings import BaseSettings
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
+    model_config = SettingsConfigDict(env_file=".env", extra="ignore")
+
     ENVIRONMENT: str = "development"
     PORT: int = 8000
     HOST: str = "0.0.0.0"
@@ -24,9 +26,5 @@ class Settings(BaseSettings):
     GROUND_TRUTH_DIR: Path = BASE_DIR / "data" / "ground_truth"
     STARTER_DIR: Path = BASE_DIR / "data" / "starter"
     DOCS_DIR: Path = BASE_DIR / "docs"
-
-    class Config:
-        env_file = ".env"
-        extra = "ignore"
 
 settings = Settings()

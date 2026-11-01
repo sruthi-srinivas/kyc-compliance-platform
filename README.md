@@ -172,8 +172,8 @@ python scripts/verify_reproducibility.py
 ============================================================
 DEMONSTRATING FIXED-SEED REPRODUCIBILITY (Seed: 20261022)
 ============================================================
-Run 1 SHA-256 Checksum: 22512306a36829310930772f90e87ad57b35a291a43af861329cb41604210384
-Run 2 SHA-256 Checksum: 22512306a36829310930772f90e87ad57b35a291a43af861329cb41604210384
+Run 1 SHA-256 Checksum: 4f28dd4e67e65e11d38520786998c2341c7b62eeef2ec62feef3d49fdae13b53
+Run 2 SHA-256 Checksum: 4f28dd4e67e65e11d38520786998c2341c7b62eeef2ec62feef3d49fdae13b53
 - SHA-256 Hash Match: True
 - All Entity Counts Match: True
 ============================================================
